@@ -4,7 +4,7 @@
 There might be additional use cases but the most obvious one is so that you can provide a password to decrypt your filesystem without having physical (or other form of virtual console) access to the machine.
 
 # Credits
-Credit where credit is due - we rely heavily on https://github.com/gsauthof/dracut-sshd/tree/master by Georg Sauthoff
+Credit where credit is due - we rely heavily on https://github.com/gsauthof/dracut-sshd/tree/master by Georg Sauthoff.
 In fact this is mostly a reuse of that project, just automating it a bit and making an RH-derivative specific.
 
 # Prerequisites
