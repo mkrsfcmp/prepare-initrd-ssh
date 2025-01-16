@@ -12,7 +12,7 @@ In fact this is mostly a reuse of that project, just automating it a bit and mak
 * Public ssh key for authentication
 * All commands provided below must be run as root or with sudo
 
-# Short way
+# TL;DR
 * download the `prepare_initrd.sh` file
 * edit the variables at the beginning
 * run it
